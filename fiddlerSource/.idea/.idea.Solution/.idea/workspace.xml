@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f072d3e-3115-4f7e-926d-a3840318ab91" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/FiddlerBackendSDK/obj/Debug/netstandard2.1/.NETStandard,Version=v2.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiddlerBackendSDK/obj/Debug/netstandard2.1/FiddlerBackendSDK.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiddlerBackendSDK/obj/Debug/netstandard2.1/FiddlerBackendSDK.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiddlerBackendSDK/obj/Debug/netstandard2.1/FiddlerBackendSDK.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiddlerBackendSDK/obj/FiddlerBackendSDK.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiddlerBackendSDK/obj/FiddlerBackendSDK.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiddlerBackendSDK/obj/FiddlerBackendSDK.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiddlerBackendSDK/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiddlerBackendSDK/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiddlerBackendSDK/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiddlerBackendSDK/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../v4.0.1-mac/Fiddler.WebUi.il" beforeDir="false" afterPath="$PROJECT_DIR$/../v4.0.1-mac/Fiddler.WebUi.il" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../v4.0.1-mac/FiddlerBackendSDK.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../v4.0.1-mac/FiddlerBackendSDK.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../v4.0.1-mac/FiddlerBackendSDK.il" beforeDir="false" afterPath="$PROJECT_DIR$/../v4.0.1-mac/FiddlerBackendSDK.il" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6266d8131bf145ada01a74814a6434a994000/08/a2d7a9c5/SubscribeCallback.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6266d8131bf145ada01a74814a6434a994000/11/d544fed9/UserId.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2QPEJpXBS6h8IbadwJn2FsQepfS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "/Users/zhongchongtao/Library/Application Support/JetBrains/Rider2023.1/resharper-host/DecompilerCache",
+      "/Users/zhongchongtao/Library/Application Support/JetBrains/Rider2023.1/resharper-host/SourcesCache",
+      "/Users/zhongchongtao/.local/share/Symbols/src"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f072d3e-3115-4f7e-926d-a3840318ab91" name="Changes" comment="" />
+      <created>1685246747120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685246747120</updated>
+      <workItem from="1685246748134" duration="777000" />
+      <workItem from="1685247574879" duration="794000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
