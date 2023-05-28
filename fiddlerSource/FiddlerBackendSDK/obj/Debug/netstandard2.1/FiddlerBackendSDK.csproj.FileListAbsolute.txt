@@ -1,0 +1,3 @@
+/Users/zhongchongtao/GitHub/fiddler-everywhere-enhance/fiddlerSource/FiddlerBackendSDK/obj/Debug/netstandard2.1/FiddlerBackendSDK.csproj.AssemblyReference.cache
+/Users/zhongchongtao/GitHub/fiddler-everywhere-enhance/fiddlerSource/FiddlerBackendSDK/obj/Debug/netstandard2.1/FiddlerBackendSDK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zhongchongtao/GitHub/fiddler-everywhere-enhance/fiddlerSource/FiddlerBackendSDK/obj/Debug/netstandard2.1/FiddlerBackendSDK.csproj.CoreCompileInputs.cache
