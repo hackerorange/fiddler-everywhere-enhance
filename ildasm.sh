@@ -2,7 +2,7 @@
 
 root_dir=$(cd `dirname $0` && pwd -P)
 
-export PATH="/mnt/disk2/work/dotnet/test/bin/Release/net6.0/linux-x64:$PATH"
+export PATH="~/test/bin/net6.0/osx-x64:$PATH"
 
 dll_file_webui="$root_dir/original/Fiddler.WebUi.dll"
 ildasm -tok -byt $dll_file_webui -out=Fiddler.WebUi.il
