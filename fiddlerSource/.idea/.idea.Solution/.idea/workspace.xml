@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f072d3e-3115-4f7e-926d-a3840318ab91" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Solution/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiddlerBackendSDK/AutoResponder/Client/RuleSetsClient.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/FiddlerBackendSDK/obj/Debug/netstandard2.1/.NETStandard,Version=v2.1.AssemblyAttributes.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/FiddlerBackendSDK/obj/Debug/netstandard2.1/FiddlerBackendSDK.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/FiddlerBackendSDK/obj/Debug/netstandard2.1/FiddlerBackendSDK.assets.cache" afterDir="false" />
@@ -28,6 +30,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6266d8131bf145ada01a74814a6434a994000/08/a2d7a9c5/SubscribeCallback.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6266d8131bf145ada01a74814a6434a994000/11/d544fed9/UserId.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="Toolset" />
   </component>
   <component name="ProjectId" id="2QPEJpXBS6h8IbadwJn2FsQepfS" />
   <component name="ProjectViewState">
@@ -63,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1685246747120</updated>
       <workItem from="1685246748134" duration="777000" />
-      <workItem from="1685247574879" duration="794000" />
+      <workItem from="1685247574879" duration="1028000" />
     </task>
     <servers />
   </component>
