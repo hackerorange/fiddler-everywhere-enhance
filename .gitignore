@@ -1,2 +1,3 @@
 *.AppImage
 fiddler/
+.DS_Store
