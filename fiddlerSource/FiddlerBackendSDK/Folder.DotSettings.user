@@ -3,4 +3,8 @@
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002FUsers_002Fzhongchongtao_002FGitHub_002Ffiddler_002Deverywhere_002Denhance_002Foriginal_002FFiddlerBackendSDK_002Edll/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002FUsers_002Fzhongchongtao_002FGitHub_002Ffiddler_002Deverywhere_002Denhance_002Fv4_002E0_002E1_002Dmac_002FFiddler_002EWebUi_002Edll/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002FUsers_002Fzhongchongtao_002FGitHub_002Ffiddler_002Deverywhere_002Denhance_002Fv4_002E0_002E1_002Dmac_002FFiddlerBackendSDK_002Edll/@EntryIndexedValue">True</s:Boolean>
-	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer /&gt;</s:String></wpf:ResourceDictionary>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
+  &lt;PhysicalFolder Path="/Users/zhongchongtao/GitHub/fiddler-everywhere-enhance/original" Loaded="True" /&gt;
+  &lt;Assembly Path="/Users/zhongchongtao/GitHub/fiddler-everywhere-enhance/original/FiddlerBackendSDK.dll" /&gt;
+  &lt;Assembly Path="/Users/zhongchongtao/GitHub/fiddler-everywhere-enhance/original/FiddlerBackend.Contracts.dll" /&gt;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>
