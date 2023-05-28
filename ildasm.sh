@@ -13,3 +13,5 @@ dll_file_sdk="$root_dir/original/FiddlerBackendSDK.dll"
 ildasm -tok -byt $dll_file_sdk -out=FiddlerBackendSDK.il
 # ilasm -dll -X64 -output=$dll_file_sdk FiddlerBackendSDK.il
 # ilasm -dll -X64 -output=FiddlerBackendSDK.dll FiddlerBackendSDK.il
+
+echo $root_dir
